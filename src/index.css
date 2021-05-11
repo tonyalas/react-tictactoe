@@ -45,6 +45,10 @@ body {
     display: flex;
     flex-direction: row;
   }
+
+  .game-board {
+    width: 100%;
+  }
   
   .game-info {
     margin-left: 20px;
