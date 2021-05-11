@@ -133,6 +133,9 @@ import './index.css';
           </div>
           <div className="game-info">
             <div>{status}</div>
+          </div>
+          <br></br>
+          <div className="game-info">
             <ol>{moves}</ol>
           </div>
         </div>
