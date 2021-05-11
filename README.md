@@ -1,6 +1,6 @@
 # React Tic-Tac-Toe
 
-This project was created with [Create React App](https://github.com/facebook/create-react-app).
+This project was created following the [Intro to React Tutorial](https://reactjs.org/tutorial/tutorial.html). It is a simple take on the classic Tic-Tac-Toe game made using React and Javascript.
 
 ## Online Heroku Version:
 
