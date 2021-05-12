@@ -41,17 +41,8 @@ body {
     background: #ddd;
   }
   
-  .game {
-    display: flex;
-    flex-direction: row;
-  }
-  
-  .game-board {
-    position: relative;
-  }
 
   .game-info {
-    position: relative;
     margin-left: 20px;
   }
   
