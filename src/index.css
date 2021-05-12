@@ -41,11 +41,6 @@ body {
     background: #ddd;
   }
   
-
-  .game-info {
-    margin-left: 20px;
-  }
-  
   .move-list-item-selected {
     float: center;
     font-weight: bold;
