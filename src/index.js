@@ -130,6 +130,7 @@ import './index.css';
               onClick={i => this.handleClick(i)}
               winLine={winInfo.line}
             />
+            <br></br>
           </div>
           <div className="game-info">
             <div>{status}</div>
